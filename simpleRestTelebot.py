@@ -1,8 +1,8 @@
 import requests
 """
-Hello world!
-You sick and tired of looking for a simple way to just send a Telegram Message with the Bot API?
-Don't want to install a package? Awesome, me neither!
+Use this script to send messages from your telegram bot!
+All that is required is the chat id, api key, and a message of your choosing
+*Great for Zapier*
 """
 
 message = f"custom message here!"
